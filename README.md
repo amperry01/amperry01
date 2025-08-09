@@ -34,7 +34,7 @@ I enjoy building projects that blend **machine learning** and **software enginee
 ---
 
 ## 📂 Featured Repositories
-- [CPSC350-Data-Structures](#) – C++ projects implementing advanced data structures.
+- [CPSC350-Data-Structures](https://github.com/amperry01/CPSC350-Data-Structures) – C++ projects implementing advanced data structures.
 - [CPSC231-Java-Programming](#) – Java OOP projects including games and utilities.
 - [CPSC360-Computer-Graphics](#) – Python-based computer graphics coursework.
 
