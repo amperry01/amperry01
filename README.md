@@ -20,7 +20,7 @@ I enjoy building projects that blend **machine learning** and **software enginee
 ## 🔭 Current Projects
 - **[Sōma: Personalized Activity Planner](#)** *(In Progress)*  
   AI-powered wellness app using Oura health data to predict recovery needs and recommend optimal activity timing.
-- **[Not so Super Mario Bros.](#)**  
+- **[Not so Super Mario Bros.](https://github.com/amperry01/Not-so-Super-Mario-Bros)**  
   C++ text-based game with modular architecture, file I/O, and multiple worlds, power-ups, and bosses.
 
 ---
