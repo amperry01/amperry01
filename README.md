@@ -13,7 +13,7 @@
 
 I'm a Computer Science student at Chapman University (graduating May 2026) with experience in **software engineering** and **machine learning**, including AI/ML model development, fullstack applications, and scalable data pipelines.
 
-I enjoy building projects that blend **machine learning** and **software engineering** to solve real-world problems — from mission-critical aerospace workflows to user-focused applications.
+I enjoy building projects that blend **machine learning** and **software engineering** to solve real-world problems, from mission-critical aerospace workflows to user-focused applications.
 
 ## Current Projects
 - **[Sōma: Activity Planner](https://github.com/amperry01/soma-activity-planner) (In Progress)**  
@@ -34,4 +34,4 @@ I enjoy building projects that blend **machine learning** and **software enginee
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/alyssamperry)  
 [Email Me](mailto:alyperry01@gmail.com)
 
-**Pinned repositories are a mix of academic, personal, and in-progress projects — check back for updates as Sōma develops!**
+**Pinned repositories are a mix of academic, personal, and in-progress projects, check back for updates as Sōma develops!**
