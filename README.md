@@ -1,4 +1,4 @@
-## Hi, I'm Alyssa 👋
+## Hi, I'm Alyssa!
 
 <!--
 - 🔭 I’m currently working on ...
@@ -17,13 +17,13 @@ I enjoy building projects that blend **machine learning** and **software enginee
 
 ---
 
-## 🚀 Current Projects
+## Current Projects
 - **[Sōma: Activity Planner](https://github.com/amperry01/soma-activity-planner) (In Progress)**  
   AI-powered wellness app using Oura health data to predict recovery needs and recommend optimal activity timing.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 **Languages:** Python, C++, Java, TypeScript, SQL, JavaScript  
 **AI/ML:** PyTorch, scikit-learn, RLlib, SHAP, NumPy, Pandas, PIL  
 **Fullstack & Tools:** React, Next.js, Node.js, REST APIs, Prisma, PostgreSQL, Docker, Git, Jupyter  
@@ -31,7 +31,7 @@ I enjoy building projects that blend **machine learning** and **software enginee
 
 ---
 
-## 📂 Featured Repositories
+## Featured Repositories
 - **[cartpole-shap](https://github.com/amperry01/cartpole-shap)** – SHAP interpretability for an RLlib PPO CartPole agent with action-specific SHAP summary plots.  
 - **[Not-so-Super-Mario-Bros](https://github.com/amperry01/Not-so-Super-Mario-Bros)** – C++ text-based Mario-style game with OOP design, file I/O, and multiple worlds.  
 - **[CPSC350-Data-Structures](https://github.com/amperry01/CPSC350-Data-Structures)** – C++ implementations of advanced data structures and algorithms, including linked lists, stacks, queues, trees, and graph algorithms.
