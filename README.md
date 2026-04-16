@@ -13,7 +13,7 @@
 
 I'm a Computer Science student at Chapman University (graduating May 2026) with experience in **software engineering** and **machine learning**, including AI/ML model development, fullstack applications, and scalable data pipelines.
 
-I enjoy building projects that mix **machine learning** and **software engineering** to solve real-world problems, from mission-critical aerospace workflows to user-focused applications.
+I build machine learning systems that combine interpretability and real-world applications, with experience in reinforcement learning, computer vision, and scalable data pipelines.
 
 ## Tech Stack
 **Languages:** Python, C++, Java, TypeScript, SQL, JavaScript  
@@ -22,7 +22,7 @@ I enjoy building projects that mix **machine learning** and **software engineeri
 **Other:** Agile/Scrum, Jira, Confluence
 
 ## Featured Repositories
-- **[cartpole-shap](https://github.com/amperry01/cartpole-shap)** – SHAP interpretability for an RLlib PPO CartPole agent with action-specific SHAP summary plots.  
+- **[cartpole-shap](https://github.com/amperry01/cartpole-shap)** – SHAP-based interpretability for a PPO reinforcement learning agent, including custom PyTorch wrappers for feature attribution and action-level analysis.  
 - **[Not-so-Super-Mario-Bros](https://github.com/amperry01/Not-so-Super-Mario-Bros)** – C++ text-based Mario-style game with OOP design, file I/O, and multiple worlds.  
 - **[CPSC350-Data-Structures](https://github.com/amperry01/CPSC350-Data-Structures)** – C++ implementations of advanced data structures and algorithms, including linked lists, stacks, queues, trees, and graph algorithms.
 
