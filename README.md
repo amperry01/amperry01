@@ -23,7 +23,7 @@ I build machine learning systems that combine interpretability and real-world ap
 
 ## Featured Repositories
 - **[cartpole-shap](https://github.com/amperry01/cartpole-shap)** – SHAP-based interpretability for a PPO reinforcement learning agent, including custom PyTorch wrappers for feature attribution and action-level analysis.  
-- **[CPSC350-Data-Structures](https://github.com/amperry01/CPSC350-Data-Structures)** – C++ implementations of advanced data structures and algorithms, including linked lists, stacks, queues, trees, and graph algorithms.
+- **[CPSC380-Operating-Systems](https://github.com/amperry01/CPSC380-Operating-Systems)** – Operating systems projects implementing thread synchronization, CPU scheduling, and memory management using C and POSIX threads.
 
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/alyssamperry)  
