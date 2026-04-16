@@ -23,7 +23,6 @@ I build machine learning systems that combine interpretability and real-world ap
 
 ## Featured Repositories
 - **[cartpole-shap](https://github.com/amperry01/cartpole-shap)** – SHAP-based interpretability for a PPO reinforcement learning agent, including custom PyTorch wrappers for feature attribution and action-level analysis.  
-- **[Not-so-Super-Mario-Bros](https://github.com/amperry01/Not-so-Super-Mario-Bros)** – C++ text-based Mario-style game with OOP design, file I/O, and multiple worlds.  
 - **[CPSC350-Data-Structures](https://github.com/amperry01/CPSC350-Data-Structures)** – C++ implementations of advanced data structures and algorithms, including linked lists, stacks, queues, trees, and graph algorithms.
 
 ## Connect With Me
