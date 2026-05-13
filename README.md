@@ -11,9 +11,9 @@
 - ⚡ Fun fact: ...
 -->
 
-I'm a Computer Science student at Chapman University (graduating May 2026) with experience in **software engineering** and **machine learning**, including AI/ML model development, fullstack applications, and scalable data pipelines.
+I am a Computer Science student at Chapman University (May 2026) with experience in machine learning and software engineering, including AI/ML model development and scalable data pipelines. 
 
-I build machine learning systems that combine interpretability and real-world applications, with experience in reinforcement learning, computer vision, and scalable data pipelines.
+I have recently built reinforcement learning explainability pipelines and tools to improve model transparency and validation at The Aerospace Corporation. I am interested in applying machine learning to real-world systems, particularly in high-impact engineering and data-driven applications.
 
 ## Tech Stack
 **Languages:** Python, C++, TypeScript, JavaScript, Java <br>
