@@ -17,8 +17,11 @@ I build machine learning systems that combine interpretability and real-world ap
 
 ## Tech Stack
 **Languages:** Python, C++, TypeScript, JavaScript, Java
+
 **AI/ML & Data Analytics:** PyTorch, RLlib (PPO), SHAP , scikit-learn, NumPy, Pandas
+
 **Fullstack & Tools:** Git, Docker, React, Next.js, Node.js, REST APIs, Prisma, PostgreSQL, Postman, Jupyter
+
 **Other:** Agile/Scrum, Jira, Confluence
 
 ## Featured Repositories
