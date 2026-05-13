@@ -26,5 +26,5 @@ I build machine learning systems that combine interpretability and real-world ap
 - **[CPSC380-Operating-Systems](https://github.com/amperry01/CPSC380-Operating-Systems)** – Operating systems projects implementing thread synchronization, CPU scheduling, and memory management using C and POSIX threads.
 
 ## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/alyssamperry)  
-[Email Me](mailto:alyperry01@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/alyssamperry)  
+- [Email](mailto:alyperry01@gmail.com)
