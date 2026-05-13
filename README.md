@@ -16,9 +16,9 @@ I'm a Computer Science student at Chapman University (graduating May 2026) with 
 I build machine learning systems that combine interpretability and real-world applications, with experience in reinforcement learning, computer vision, and scalable data pipelines.
 
 ## Tech Stack
-**Languages:** Python, C++, Java, TypeScript, SQL, JavaScript  
-**AI/ML:** PyTorch, scikit-learn, RLlib (PPO), SHAP, NumPy, Pandas, PIL
-**Fullstack & Tools:** React, Next.js, Node.js, REST APIs, Prisma, PostgreSQL, Docker, Git, Jupyter  
+**Languages:** Python, C++, TypeScript, JavaScript, Java
+**AI/ML & Data Analytics:** PyTorch, RLlib (PPO), SHAP , scikit-learn, NumPy, Pandas
+**Fullstack & Tools:** Git, Docker, React, Next.js, Node.js, REST APIs, Prisma, PostgreSQL, Postman, Jupyter
 **Other:** Agile/Scrum, Jira, Confluence
 
 ## Featured Repositories
