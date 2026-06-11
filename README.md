@@ -22,7 +22,7 @@ Most of what you’ll find here started as a class project, internship project, 
 **Other:** Agile/Scrum, Jira, Confluence
 
 ## Featured Repositories
-- **[cartpole-shap](https://github.com/amperry01/cartpole-shap)** – SHAP-based interpretability for a PPO reinforcement learning agent, including custom PyTorch wrappers for feature attribution and action-level analysis.  
+- **[cartpole-shap](https://github.com/amperry01/cartpole-shap)** – Explainability pipeline for PPO reinforcement learning agents using SHAP and custom PyTorch wrappers for feature attribution and action-level analysis.
 - **[CPSC380-Operating-Systems](https://github.com/amperry01/CPSC380-Operating-Systems)** – Operating systems projects implementing thread synchronization, CPU scheduling, and memory management using C and POSIX threads.
 - **[Not-so-Super-Mario-Bros](https://github.com/amperry01/Not-so-Super-Mario-Bros)** – C++ text-based game using object-oriented programming principles, modular class architecture, and file-driven world generation. Implemented player progression, combat mechanics, power-up systems, and persistent game state tracking.
 
