@@ -23,7 +23,7 @@ Most of what you’ll find here started as a class project, internship project, 
 
 ## Featured Repositories
 - **[cartpole-shap](https://github.com/amperry01/cartpole-shap)** – Explainability pipeline for PPO reinforcement learning agents using SHAP and custom PyTorch wrappers for feature attribution and action-level analysis.
-- **[CPSC380-Operating-Systems](https://github.com/amperry01/CPSC380-Operating-Systems)** – Operating systems projects implementing thread synchronization, CPU scheduling, and memory management using C and POSIX threads.
+- **[OS-Simulation-Suite](https://github.com/amperry01/OS-Simulation-Suite)** – Systems programming project implementing thread synchronization, CPU scheduling algorithms, and dynamic memory allocation strategies in C using POSIX threads and synchronization primitives.
 - **[Not-so-Super-Mario-Bros](https://github.com/amperry01/Not-so-Super-Mario-Bros)** – C++ text-based game using object-oriented programming principles, modular class architecture, and file-driven world generation. Implemented player progression, combat mechanics, power-up systems, and persistent game state tracking.
 
 ## Connect With Me
