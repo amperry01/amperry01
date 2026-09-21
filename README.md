@@ -11,20 +11,21 @@
 - ⚡ Fun fact: ...
 -->
 
-I recently graduated from Chapman University with a degree in Computer Science and currently work at The Aerospace Corporation. This fall, I’ll be starting graduate studies in Electrical Engineering and Computer Science.
+I’m a software and machine learning engineer currently completing an SDE internship at Amazon. Prior to my internship, I worked in AI/ML engineering at The Aerospace Corporation, where I’ll return following my internship.
 
-Most of what you’ll find here started as a class project, internship project, or something I thought would be fun to build. My interests include machine learning, systems programming, and software engineering.
+I graduated magna cum laude from Chapman University with a B.S. in Computer Science and will begin an M.S. in Electrical Engineering and Computer Science in Spring 2027.
+
+My interests include machine learning, reinforcement learning, explainable AI, recommendation systems, systems programming, and software engineering.
 
 ## Tech Stack
-**Languages:** Python, C++, Java, TypeScript, JavaScript <br>
-**ML/Data:** PyTorch, RLlib (PPO), SHAP, Scikit-Learn, NumPy, Pandas <br>
-**Web & Tools:** React, Next.js, Node.js, PostgreSQL, Postman, Prisma, Git, Docker <br>
-**Other:** Agile/Scrum, Jira, Confluence
+**Languages:** Python, C++, Java, SQL, TypeScript, JavaScript <br>
+**ML/Data:** PyTorch, RLlib (PPO), SHAP, scikit-learn, NumPy, Pandas <br>
+**Software & Tools:** Git, Docker, PostgreSQL, Unity, React, Next.js, Node.js <br>
 
 ## Featured Repositories
-- **[cartpole-shap](https://github.com/amperry01/cartpole-shap)** – Explainability pipeline for PPO reinforcement learning agents using SHAP and custom PyTorch wrappers for feature attribution and action-level analysis.
-- **[OS-Simulation-Suite](https://github.com/amperry01/OS-Simulation-Suite)** – Systems programming project implementing thread synchronization, CPU scheduling algorithms, and dynamic memory allocation strategies in C using POSIX threads.
-- **[Not-so-Super-Mario-Bros](https://github.com/amperry01/Not-so-Super-Mario-Bros)** – C++ text-based game using object-oriented programming principles, modular class architecture, and file-driven world generation. Implemented player progression, combat mechanics, power-up systems, and persistent game state tracking.
+- **[spotify-recommender](https://github.com/amperry01/spotify-recommender)** - Content-based music recommendation system across 170K+ tracks comparing KNN, K-Means, DBSCAN, Euclidean distance, and cosine similarity on standardized Spotify audio features.
+- **[cartpole-shap](https://github.com/amperry01/cartpole-shap)** – Explainability pipeline for PPO reinforcement learning agents using SHAP and custom PyTorch wrappers for action-specific feature attribution.
+- **[OS-Simulation-Suite](https://github.com/amperry01/OS-Simulation-Suite)** – C/C++ systems-programming project implementing POSIX thread synchronization, CPU scheduling algorithms, and memory allocation strategies.
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/alyssamperry)  
